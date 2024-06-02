@@ -1,2 +1,2 @@
-# Automated_5G-Core
-Deploy any 5G core in seconds
+Note : some cores are not working for now 
+!! UNDER DEVELOPMENT
